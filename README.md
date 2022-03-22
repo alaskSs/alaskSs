@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @alaskSs
-- 👀 I’m interested in debugging
-- 🌱 I’m currently learning JAVA
-- 💞️ I’m looking to collaborate on Basic projects
-- 📫 How to reach me @pranjal_alaskss 
+- 👋 Hi, I’m @alaskSs.
+- ✨ Python, Java, Selenium, Uipath.
+- 👀 I’m interested in Web Development.
+- 🌱 I’m currently learning Angular.
+- 💞️ I’m looking to collaborate on projects.
+- 📫 How to reach me @pranjal_alaskss.
 
 <!---
 alaskSs/alaskSs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
