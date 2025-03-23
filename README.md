@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alaskSs.
-- ✨ Python, Java, Selenium, Uipath.
+- ✨ Java, Selenium.
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning Angular.
 - 💞️ I’m looking to collaborate on projects.
